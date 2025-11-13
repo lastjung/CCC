@@ -1,5 +1,6 @@
 line_count = int(input())
 
+
 for _ in range(line_count):
     line = input().rstrip("\n")
     encoded_parts = []
